@@ -1,0 +1,14 @@
+C:\Users\Familia\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\Backend.deps.json
+C:\Users\Familia\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\Backend.runtimeconfig.json
+C:\Users\Familia\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\Backend.dll
+C:\Users\Familia\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\Backend.pdb
+C:\Users\Familia\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache
+C:\Users\Familia\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache
+C:\Users\Familia\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Backend.AssemblyInfo.cs
+C:\Users\Familia\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\Familia\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Backend.dll
+C:\Users\Familia\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\refint\Backend.dll
+C:\Users\Familia\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Backend.pdb
+C:\Users\Familia\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\Backend.genruntimeconfig.cache
+C:\Users\Familia\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ref\Backend.dll
