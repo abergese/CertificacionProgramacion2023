@@ -2881,11 +2881,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Familia\\source\\repos\\ClassLibrary1\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Familia\\Documents\\GitHub\\CertificacionProgramacion2023\\Ejercicio Entidad Financiera\\ClassLibrary1\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\Familia\\source\\repos\\ClassLibrary1\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectPath": "C:\\Users\\Familia\\Documents\\GitHub\\CertificacionProgramacion2023\\Ejercicio Entidad Financiera\\ClassLibrary1\\WinFormsApp1\\WinFormsApp1.csproj",
       "packagesPath": "C:\\Users\\Familia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Familia\\source\\repos\\ClassLibrary1\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\Familia\\Documents\\GitHub\\CertificacionProgramacion2023\\Ejercicio Entidad Financiera\\ClassLibrary1\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2906,8 +2906,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Familia\\source\\repos\\ClassLibrary1\\ClassLibrary1\\Backend.csproj": {
-              "projectPath": "C:\\Users\\Familia\\source\\repos\\ClassLibrary1\\ClassLibrary1\\Backend.csproj"
+            "C:\\Users\\Familia\\Documents\\GitHub\\CertificacionProgramacion2023\\Ejercicio Entidad Financiera\\ClassLibrary1\\ClassLibrary1\\Backend.csproj": {
+              "projectPath": "C:\\Users\\Familia\\Documents\\GitHub\\CertificacionProgramacion2023\\Ejercicio Entidad Financiera\\ClassLibrary1\\ClassLibrary1\\Backend.csproj"
             }
           }
         }

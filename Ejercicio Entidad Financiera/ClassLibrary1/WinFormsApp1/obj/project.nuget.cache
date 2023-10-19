@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xga4YkvX8uRLNu2PigIgw4yjfVNwWBxRpSWvfA+Wc5CW9bI7SMjVzxjLBPRHQ5cqgYJNUIaX9xx+RmTBmfaw6Q==",
+  "dgSpecHash": "pL3T33OT4JCCGj72/LGYnT6xj71QxiG04S8EQyRZKdciXRuvH51o1WwW5YakA6TPYh4x04dayYgaGBfuV+sWcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Familia\\source\\repos\\ClassLibrary1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "projectFilePath": "C:\\Users\\Familia\\Documents\\GitHub\\CertificacionProgramacion2023\\Ejercicio Entidad Financiera\\ClassLibrary1\\WinFormsApp1\\WinFormsApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Familia\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Familia\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
